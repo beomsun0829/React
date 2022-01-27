@@ -1,0 +1,10 @@
+.Outerbox{
+    position: absolute;
+    width: 1245px;
+    height: 885px;
+    left: 97px;
+    top: 69px;
+
+    background: #E34646;
+    border-radius: 16px;
+}
