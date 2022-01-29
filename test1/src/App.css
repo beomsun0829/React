@@ -1,11 +1,4 @@
 .App {
   text-align: center;
-}
-
-.Header{
-  display: flex;
-  background-color: #f1f1f1;
-  padding: 20px;
-  align-items: center;
-  justify-content: space-around;
+  background-color: #e4e4e4;
 }

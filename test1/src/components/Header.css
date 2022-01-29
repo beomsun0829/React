@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1860px;
+    margin: 0 auto;
+    padding: 41px 100px 23px;
+    align-items: center;
+}
+
+
+.header .social-wrap > * + * {
+    margin-left: 30px;
+}
