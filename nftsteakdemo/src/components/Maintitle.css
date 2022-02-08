@@ -1,0 +1,18 @@
+.Maintitle{
+    color:white;
+    align-items: center;
+    text-align: center;
+}
+
+
+.Titleimg{
+    font-size: 70px;
+}
+
+
+.Maintitle_Divider hr{
+    width: 90%;
+    border: 1px solid #00FF4C;
+    opacity: 1;
+    
+}
