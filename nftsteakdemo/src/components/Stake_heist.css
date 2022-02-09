@@ -5,5 +5,51 @@
 
     height: 600px;
     width: 80%;
+    margin:auto;
+    margin-top: 80px;
     text-align: center;
+}
+
+
+.Stake_heist_title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.Stake_heist_title hr{
+    width : 36%;
+    background-color: black;
+    height: 4px;
+    border: 0px;
+    margin: 0px;
+}
+
+.Stake_heist_title span{
+    font-size: 60px;
+    margin: 0px;
+}
+
+.Stake_heist p{
+    font-size: 35px;
+}
+
+.Stake_heist_connectwallet{
+    border: 5px solid #000000;
+    border-radius: 10px;
+    opacity: 1;
+
+    height: 200px;
+    width: 80%;
+    margin: auto;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Stake_heist_connectwallet span{
+    font-size: 35px;
 }
