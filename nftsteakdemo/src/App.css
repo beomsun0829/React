@@ -6,4 +6,6 @@ body{
 .App{
     font-family: 'Black Ops One', cursive;
     background-color: black;
+    background: transparent url('/src/img/Background.png') 0% 0% padding-box;
+opacity: 1;
 }

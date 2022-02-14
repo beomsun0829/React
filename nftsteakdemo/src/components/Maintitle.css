@@ -6,7 +6,12 @@
 
 
 .Titleimg{
-    font-size: 70px;
+    margin-bottom: -80px;
+}
+
+.Subtitle{
+    font-size: 45px;
+    
 }
 
 
@@ -14,5 +19,5 @@
     width: 90%;
     border: 1px solid #00FF4C;
     opacity: 1;
-    
+    margin-bottom: 70px;
 }

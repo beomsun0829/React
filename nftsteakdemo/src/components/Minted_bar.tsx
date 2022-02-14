@@ -7,7 +7,7 @@ import "./Minted_bar.css"
 function Minted_bar() {
     return(
         <div className="Minted_bar">
-            <img src="/src/favicon.svg" className="Minted_bar_img"/>
+            <img src="/src/img/GangHand.png" className="Minted_bar_img"/>
             <div className="Minted_bar_bar">
                 <div className="Minted_bar_bar_blackborder">
                     <span>0/10000&nbsp;</span>

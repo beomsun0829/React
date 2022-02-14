@@ -1,4 +1,5 @@
 import React, { FC, useMemo } from 'react';
+import "./Wallet.css"
 import { ConnectionProvider, WalletProvider } from '@solana/wallet-adapter-react';
 import { WalletAdapterNetwork } from '@solana/wallet-adapter-base';
 import {

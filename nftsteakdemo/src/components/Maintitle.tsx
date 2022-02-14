@@ -9,10 +9,10 @@ function Maintitle() {
     return(
         <div className="Maintitle">
             <div className="Titleimg">
-                <h1>HEIST GAME</h1>
+                <img src='/src/img/Main_Title.png'/>
             </div>
             <div className="Subtitle">
-                <h2>ON-CHAIN NFT RISK PROTOCOL</h2>
+                <span>ON-CHAIN NFT RISK PROTOCOL</span>
             </div>
             <Wallet/>
             

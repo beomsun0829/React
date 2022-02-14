@@ -2,6 +2,7 @@
     background-color: #37C05A;
     border-radius: 10px;
     opacity: 1;
+    background: transparent url('/src/img/header_bar.png') 0% 0% padding-box;
 
     height: 600px;
     width: 80%;

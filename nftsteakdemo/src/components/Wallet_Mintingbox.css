@@ -13,6 +13,7 @@
     width: 80%;
     height: 330px;
     background-color: #32BB55;
+    background: transparent url('/src/img/header_bar.png') 0% 0% padding-box;
     border-radius: 10px;
     opacity: 1;
     display: flex;
@@ -60,6 +61,7 @@
     height: 600px;
     margin-top: 150px;
     background-color: #32BB55;
+    background: transparent url('/src/img/header_bar.png') 0% 0% padding-box;
     border-radius: 10px;
     opacity: 1;
 }

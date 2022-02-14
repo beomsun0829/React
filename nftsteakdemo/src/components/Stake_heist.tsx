@@ -13,7 +13,7 @@ function Stake_heist() {
                 <hr/>
             </div>
 
-            <p>1.SLECT A HEIST YOU WANT TO JOIN THE GANG AND START TO ROB</p>
+            <p>1. SELECT A HEIST YOU WANT TO JOIN THE GANG AND START TO ROB</p>
 
             <div className="Stake_heist_connectwallet">
                 <span>CONNECT WALLET</span>

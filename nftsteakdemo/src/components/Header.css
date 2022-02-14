@@ -1,6 +1,6 @@
 .Header{
     margin: 0px;
-    background-color: #32BB55;
+    background: transparent url('/src/img/header_bar.png') 0% 0% no-repeat padding-box;
     padding: 0px;
     height: 70px;
     display: flex;
