@@ -21,11 +21,11 @@ function Stake_heist() {
 
             <div className="Stake_heist_stakeheist">
                 <div className="Stake_heist_stakeheist_progressbar">
-
+                    <span>TOTAL HEIST : 0 / STAKED HEIST : 0</span>
                 </div>
                 
                 <div className="Stake_heist_stakeheist_button">
-                    
+                    <button>STAKE HEISTS</button>
                 </div>
             </div>
 

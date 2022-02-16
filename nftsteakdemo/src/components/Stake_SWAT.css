@@ -1,10 +1,9 @@
-.Stake_heist{
-    background-color: #37C05A;
+.Stake_SWAT{
+    background-color: #6D56B9;
     border-radius: 10px;
     opacity: 1;
-    background: transparent url('/src/img/header_bar.png') 0% 0% padding-box;
 
-    height: 600px;
+    height: 650px;
     width: 80%;
     margin:auto;
     margin-top: 80px;
@@ -12,7 +11,7 @@
 }
 
 
-.Stake_heist_title{
+.Stake_SWAT_title{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -20,24 +19,24 @@
     padding-top: 30px;
 }
 
-.Stake_heist_title hr{
-    width : 36%;
+.Stake_SWAT_title hr{
+    width : 40%;
     background-color: black;
     height: 4px;
     border: 0px;
     margin: 0px;
 }
 
-.Stake_heist_title span{
+.Stake_SWAT_title span{
     font-size: 60px;
     margin: 0px;
 }
 
-.Stake_heist p{
+.Stake_SWAT p{
     font-size: 35px;
 }
 
-.Stake_heist_connectwallet{
+.Stake_SWAT_connectwallet{
     border: 5px solid #000000;
     border-radius: 10px;
     opacity: 1;
@@ -52,13 +51,13 @@
     align-items: center;
 }
 
-.Stake_heist_connectwallet span{
+.Stake_SWAT_connectwallet span{
     font-size: 35px;
 }
 
 
 
-.Stake_heist_stakeheist{
+.Stake_SWAT_stakeheist{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -67,7 +66,7 @@
     margin: auto;
 }
 
-.Stake_heist_stakeheist_progressbar{
+.Stake_SWAT_stakeheist_progressbar{
     border: 5px solid #000000;
     border-radius: 10px;
     height: 100px;
@@ -80,17 +79,17 @@
     margin-right: 100px;
 }
 
-.Stake_heist_stakeheist_progressbar span{
+.Stake_SWAT_stakeheist_progressbar span{
     font-size: 35px;
 }
 
-.Stake_heist_stakeheist button{
+.Stake_SWAT_stakeheist button{
     height: 100px;
     flex-grow: 1;
 
     font-family: 'Black Ops One';
     font-size: 30px;
-    color: #37C05A;
+    color: #6D56B9;
 
 
     background: #000000 0% 0% no-repeat padding-box;

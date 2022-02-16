@@ -12,7 +12,9 @@ function Steaking() {
                     <span>HEIST GANG</span>
                 </div>
 
-                <img src="/src/img/Heist_Gang.png"/>
+                <div className="Heistgang_img">
+                    <img src="/src/img/Heist_Gang.png"/>
+                </div>
 
                 <div className="Heistgang_description">
                     <span>EARN $HEIST BY STAKING YOUR HEIST</span>
@@ -38,8 +40,10 @@ function Steaking() {
                 <div className="Swatteam_title">
                     <span>S.W.A.T TEAM</span>
                 </div>
-
-                <img src="/src/img/SWAT_TEAM.png"/>
+                
+                <div className="Swatteam_img">
+                    <img src="/src/img/SWAT_TEAM.png"/>
+                </div>
 
                 <div className="Swatteam_description">
                     <span>EARN $HEIST BY STAKING YOUR S.W.A.T</span>

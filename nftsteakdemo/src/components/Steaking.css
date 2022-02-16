@@ -7,11 +7,10 @@
 
 
 
-
 .Steaking_divider{
     margin-top: 60px;
     border-left: 3px solid #00FF4C;
-    height: 1900px;
+    height: 1700px;
 }
 
 
@@ -45,6 +44,10 @@
     opacity: 1;
 
     text-align: center;
+}
+.Heistgang_img{
+    display: flex;
+    justify-content: center;
 }
 .Heistgang_steakbox h2{
     padding-top: 40px;
@@ -102,6 +105,10 @@
     font-size: 45px;
     margin-top: 30px;
     margin-bottom: 10px;
+}
+.Swatteam_img{
+    display: flex;
+    justify-content: center;
 }
 .Swatteam_steakbox{
     width: 100%;
